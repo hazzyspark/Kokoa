@@ -1,6 +1,6 @@
 # Kokoa
 - Introduction 
-  Today I start learn HTML syntax. 
+  Today I started learning HTML syntax. 
 
 - To Do Lists
 - XXX
