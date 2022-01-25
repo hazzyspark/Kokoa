@@ -1,4 +1,4 @@
 # Kokoa
--Learning HTML
--Learning CSS
--Learning advanced CSS
+- Learning HTML
+- Learning CSS
+- Learning advanced CSS
