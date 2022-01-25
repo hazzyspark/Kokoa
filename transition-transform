@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="kr">
+  <head>
+    <title>The Hyejee Times</title>
+    <style>
+      img {
+        border: 10px solid black;
+        border-radius: 50%;
+        transition: transform 2s ease-in-out;
+      }
+      img:hover {
+        transform: matrix(1, 2, 3, 4, 5, 6) scale(0.5);
+      }
+    </style>
+  </head>
+  <body>
+    <img src="img/logo.png" />
+  </body>
+</html>
